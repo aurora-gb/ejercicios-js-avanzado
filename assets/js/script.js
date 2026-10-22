@@ -206,16 +206,142 @@
 // let resultado= numeros[1]-numeros[0]
 // console.log(resultado)
 
-// GRUPO A ejercicio 6
+// GRUPO A 
+// ejercicio 1
 
-// let temperatura= 30
-// let siento
-// if (temperatura>=30){
-//   siento="hace calor"
+// let nombre="aurora"
+// let edad=29
+// let carnetConducir=true
+
+// ejercicio 2
+
+// let gastos=[50,20,40]
+
+// ejercicio 3
+
+// let witcher={
+//   nombre:"aurora",
+//   nivel:2,
+//   vida:-3
+// }
+
+// ejercicio 4
+
+// const base=10
+// const altura=5
+// const area= base*altura
+// console.log(area)
+
+// ejercicio 5
+
+// let dinero=200
+// dinero=dinero/2
+// console.log(dinero)
+
+// ejercicio 6
+
+// let temperatura=30
+// if (temperatura>30){
+//   console.log("hace calor")
+// } else if (temperatura<=30){
+//   console.log("clima agradable")
+// }
+
+// ejercicio 7
+
+// let esMoto=false
+// if (esMoto===true){ 
+//   console.log("pagas 5")
+// } else {
+//   console.log("pagas 10")
+// }
+
+// ejercicio 8
+
+// let dinero=100
+// if (dinero>100){
+// console.log(dinero-20)
+// }else if (dinero<=100){
+//   console.log(dinero+10)
+// }
+
+// otra version
+// let dinero=80
+// if (dinero>100){
+// dinero-=20
+// }else if (dinero<=100){
+// dinero+=10
+// }
+// console.log(dinero)
+
+// otra version
+// let dinero=80
+// if (dinero>100){
+// dinero=dinero-20
+// }else if (dinero<=100){
+// dinero=dinero+10
+// }
+// console.log(dinero)
+
+// ejercicio 9
+
+// let edad=10
+// let vaAcompañado=true
+
+// if (edad>12 || vaAcompañado){
+//   console.log("puedes subir a la montaña rusa")
 // } else{
-//   siento="clima agradable"
-// }  
-// console.log(siento)
+//   console.log("no puedes subir")
+// }
+
+// ejercicio 10
+
+// let nota=4
+// if(nota>=8){
+//   console.log("notable")
+// } else if (nota>=5 && nota<=7){
+//   console.log("aprobado")
+// } else if(nota<5){
+//   console.log("suspenso")
+// }
+
+// ejercicio 11
+
+// let gastos=[50,20,40]
+// let suma=gastos[0]+gastos[2]
+// console.log(suma)
+
+// ejercicio 12
+
+// let witcher={
+//   nombre:"aurora",
+//   nivel:2,
+//   vida:-3
+// }
+// witcher.vida=witcher.vida+50
+
+// ejercicio 13
+
+// let numeros=[2,4,6]
+// numeros[2]=numeros[2]*2
+// console.log(numeros)
+
+// ejercicio 14
+
+// let coche={
+//   marca:"bmw",
+//   año:2026,
+//   motor:{caballos:50,electrico:true}
+// }
+
+// ejercicio 15
+
+// let edades=[15,20]
+// if (edades[0]<edades[1]){
+//   console.log("es menor")
+// } else{
+//   console.log("es mayor")
+// }
 
 // ejercicio inventado
 
